@@ -30,5 +30,5 @@ When an individual wants to park car in the parking first, he is supposed to pus
 
 Tinkercad Project Links:
 
-Car Entry Point - https://www.tinkercad.com/things/bWh9BLlzTsF
-Car Exit Point - https://www.tinkercad.com/things/czc2nLRfFg7
+1. Car Entry Point - https://www.tinkercad.com/things/bWh9BLlzTsF
+2. Car Exit Point - https://www.tinkercad.com/things/czc2nLRfFg7
