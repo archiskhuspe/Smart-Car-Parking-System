@@ -10,13 +10,13 @@ The plan is to implement a system in which the presence of a car can be detected
 
 💫 Components
 
-•	ArduinoUnoR3
-•	Servo Motor
-•	Ultrasonic Sensor
-•	LCD(16x2)
-•	Pushbutton
-•	Resistor
-•	Breadboard
+1. ArduinoUnoR3
+2. Servo Motor
+3. Ultrasonic Sensor
+4. LCD(16x2)
+5. Pushbutton
+6. Resistor
+7. Breadboard
 
 💫 Specifications
 
